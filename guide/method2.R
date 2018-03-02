@@ -1,0 +1,1 @@
+system("guide < method2_input.txt")
